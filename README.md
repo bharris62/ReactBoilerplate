@@ -1,2 +1,2 @@
-# ReactBoilerplate
-Boilerplate for creating react projects
+# hello-react
+First time experimenting with react
